@@ -1,0 +1,7 @@
+laura;T;T;T;T;T;
+hugo;F;F;F;T;F;
+paul;T;T;F;T;F;
+noel;F;F;F;F;F;
+David;T;T;F;T;F;
+louis;T;T;T;T;T;
+test;T;T;F;T;F;
